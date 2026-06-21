@@ -123,9 +123,6 @@ An indentation bug in `fusion_scene.py` caused the scale log adjustment `+= np.l
 
 ## 🚀 Usage
 
-### Prerequisites
-```bash
-conda activate task1-threestudio  # Python 3.10, CUDA 12.x
 ```
 
 ### Fusion
