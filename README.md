@@ -118,7 +118,7 @@ An indentation bug in `fusion_scene.py` caused the scale log adjustment `+= np.l
 | **Texture** | Photo-realistic | StyleGAN-like | Input-consistent |
 | **Training PSNR** | 41.47 dB | 15.47 dB | 16.57 dB |
 | **Gaussians** | 30,763 | 7,444 | 3,195 |
-| **Training time** | ~17 min | ~3 min | ~13 min |
+| **Training time** | ~97 min | ~83 min | ~113 min |
 | **Effort** | Phone video + COLMAP | Just a text prompt | One photo + bg removal |
 
 ## 🚀 Usage
