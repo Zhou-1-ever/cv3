@@ -123,7 +123,7 @@ An indentation bug in `fusion_scene.py` caused the scale log adjustment `+= np.l
 
 ## 🚀 Usage
 
-```
+
 
 ### Fusion
 ```bash
